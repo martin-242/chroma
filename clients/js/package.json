@@ -1,6 +1,6 @@
 {
   "name": "chromadb",
-  "version": "1.5.10",
+  "version": "1.5.11",
   "description": "A JavaScript interface for chroma",
   "keywords": [],
   "author": "",
@@ -65,7 +65,7 @@
     "isomorphic-fetch": "^3.0.0"
   },
   "peerDependencies": {
-    "cohere-ai": "^5.1.0",
+    "cohere-ai": "^5.0.0 || ^6.0.0",
     "openai": "^3.0.0 || ^4.0.0"
   },
   "peerDependenciesMeta": {
